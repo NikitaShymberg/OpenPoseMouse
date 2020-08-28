@@ -6,6 +6,7 @@ Control the computer mouse using your body and a camera! See OpenPoseMouseContro
 ## Installation
 - Install OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
 - (If using a FLIR machine vision camera) install PySpin: https://www.flir.com/products/spinnaker-sdk/
+- Insttall PyAutoGui: https://pypi.org/project/PyAutoGUI/
 - Install OpenCV for Python
 - You may want to use a GPU for this, on my GTX 1060, I got roughly 10-15 FPS
 
